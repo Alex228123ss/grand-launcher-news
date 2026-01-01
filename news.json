@@ -1,7 +1,14 @@
 [
-    {
-        "title": "С НОВЫМ 2026 ГОДОМ!",
-        "date": "01.01.2026 в 00:00",
-        "text": "ПОЗДРАВЛЯЕМ ВСЕХ С НОВЫМ ГОДОМ, В ЧЕСТЬ ЭТОГО МЫ ЗАПУСТИЛИ X10!"
-    }
+  {
+    "title": "ГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ",
+    "date": "01 ЯНВ",
+    "image": "https://toshka-grandrussia.ru/assets/image1.png",
+    "link": "https://t.me/toshka_grandrussia"
+  },
+  {
+    "title": "БОНУСНЫЕ ВЫХОДНЫЕ",
+    "date": "31 ДЕК",
+    "image": "", 
+    "link": "https://t.me/toshka_grandrussia"
+  }
 ]
