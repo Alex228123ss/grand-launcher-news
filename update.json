@@ -1,5 +1,11 @@
 {
-  "enabled": true,
-  "version": "2.0.0",
-  "url": "soon"
+  "launcher": {
+    "version": "1.0.2",
+    "url": "https://dropbox.com/link_to_new_launcher.exe"
+  },
+  "game": {
+    "update_required": false,
+    "version_code": 2,
+    "url": "https://www.dropbox.com/scl/fi/...../game.zip?dl=1"
+  }
 }
