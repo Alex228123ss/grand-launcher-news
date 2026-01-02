@@ -1,11 +1,11 @@
 {
   "launcher": {
-    "version": "1.0.2",
-    "url": "https://dropbox.com/link_to_new_launcher.exe"
+    "latest_version": "1.0.2",
+    "download_url": "https://dropbox.com/link_to_new_launcher.exe"
   },
-  "game": {
-    "update_required": false,
+  "build": {
     "version_code": 2,
-    "url": "https://www.dropbox.com/scl/fi/...../game.zip?dl=1"
+    "force_update": true,
+    "download_url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=7w7l54de&dl=1"
   }
 }
