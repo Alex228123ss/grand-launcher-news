@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "01 | INFINITY", "ip": "188.127.241.8", "port": "1432", "maintenance": true, "pass": "123123" },
+  { "id": 2, "name": "02 | TEST", "ip": "127.0.0.1", "port": "7777", "maintenance": false, "pass": "123123" }
+]
