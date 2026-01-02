@@ -1,0 +1,12 @@
+[
+  {
+    "nick": "Katana_Vercetti",
+    "pass": "123123",
+    "active": true
+  },
+  {
+    "nick": "Tester",
+    "pass": "12345",
+    "active": true
+  }
+]
