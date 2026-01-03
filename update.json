@@ -12,14 +12,14 @@
   "servers": [
     {
       "name": "01 | INFINITY",
-      "ip": "127.0.0.1:7777",
-      "tag": "X2 PAYDAY",
+      "ip": "188.127.241.8:1432",
+      "tag": "X2 PAYDAY, EXP",
       "maintenance": false
     },
     {
       "name": "02 | TEST",
       "ip": "127.0.0.1:7778",
-      "tag": "ТЕХ.РАБОТЫ",
+      "tag": "СЕРВЕР ОТКЛЮЧЁН",
       "maintenance": true
     }
   ]
