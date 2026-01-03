@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.0.5",
-    "url": "ССЫЛКА_НА_EXE_В_DROPBOX",
-    "force_update": false
+    "version": "1.9.0",
+    "url": "https://www.dropbox.com/scl/fi/7mj45dcgakyhljg0wsejg/GRAND-LAUNCHER-1.9.0.exe?rlkey=9k5zww83u7eaufm8knab1fu9j&st=bj83vyvm&dl=1",
+    "force_update": true
   },
   "build": {
     "version": 3,
