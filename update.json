@@ -1,11 +1,15 @@
 {
   "launcher": {
-    "latest_version": "1.0.2",
-    "download_url": "https://dropbox.com/link_to_new_launcher.exe"
+    "version": "1.0.3",
+    "url": "ССЫЛКА_НА_EXE_ЛАУНЧЕРА",
+    "force_update": false
   },
   "build": {
-    "version_code": 2,
-    "force_update": true,
-    "download_url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=7w7l54de&dl=1"
+    "version": 2,
+    "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=7w7l54de&dl=1",
+    "force_update": true
+  },
+  "modpack": {
+    "url": "ССЫЛКА_НА_АРХИВ_МОДПАКА"
   }
 }
