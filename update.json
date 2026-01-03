@@ -2,7 +2,7 @@
   "launcher": {
     "version": "1.0.5",
     "url": "ССЫЛКА_НА_EXE_ЛАУНЧЕРА",
-    "force_update": true
+    "force_update": false
   },
   "build": {
     "version": 3,
