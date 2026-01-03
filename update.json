@@ -1,12 +1,26 @@
 {
   "launcher": {
-    "version": "1.0.5",
-    "url": "ССЫЛКА_НА_EXE_ЛАУНЧЕРА",
+    "version": "2.0.0",
+    "url": "ССЫЛКА_НА_EXE",
     "force_update": false
   },
   "build": {
     "version": 3,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=yjh86l6m&dl=1",
     "force_update": false
-  }
+  },
+  "servers": [
+    {
+      "name": "01 | INFINITY",
+      "ip": "127.0.0.1:7777",
+      "tag": "X2 PAYDAY",
+      "maintenance": false
+    },
+    {
+      "name": "02 | TEST",
+      "ip": "127.0.0.1:7778",
+      "tag": "ТЕХ.РАБОТЫ",
+      "maintenance": true
+    }
+  ]
 }
