@@ -1,6 +1,6 @@
 {
   "launcher": {
-    "latest_version": "1.0.2",
+    "latest_version": "1.0.1",
     "download_url": "https://yoursite.com/launcher_setup.exe"
   },
   "build": {
