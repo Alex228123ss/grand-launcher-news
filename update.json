@@ -1,11 +1,15 @@
 {
   "launcher": {
-    "latest_version": "1.0.1",
-    "download_url": "https://yoursite.com/launcher_setup.exe"
+    "version": "1.0.3",
+    "url": "ССЫЛКА_НА_EXE_ЛАУНЧЕРА",
+    "force_update": false
   },
   "build": {
-    "version_code": 1,
-    "force_update": false,
-    "download_url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=7w7l54de&dl=1"
+    "version": 2,
+    "url": "ССЫЛКА_НА_АРХИВ_СБОРКИ_ИГРЫ",
+    "force_update": false
+  },
+  "modpack": {
+    "url": "ССЫЛКА_НА_АРХИВ_МОДПАКА"
   }
 }
