@@ -1,13 +1,14 @@
 {
   "launcher": {
-    "version": "1.9.0",
-    "url": "https://www.dropbox.com/scl/fi/4a6pj2etmp301xay92x8g/Grand-Launcher-Setup-1.9.0.exe?rlkey=mabqlpwxioreciimwguzkumn7&st=7zg6a8lb&dl=1",
+    "version": "1.0.0",
+    "url": "ССЫЛКА_НА_EXE",
     "force_update": false
   },
   "build": {
-    "version": 3,
+    "version": 2,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
-    "force_update": false
+    "is_active": true,
+    "date": "03.01.2026"
   },
-  "bonus_text": "I LOVE MONEY"
+  "bonus_text": ""
 }
