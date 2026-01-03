@@ -5,9 +5,9 @@
     "force_update": false
   },
   "build": {
-    "version": 3,
-    "url": "ССЫЛКА_НА_АРХИВ_ИГРЫ",
+    "version": 2.0,
+    "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
     "force_update": false
   },
-  "bonus_text": "X2 PAYDAY"
+  "bonus_text": "X2 PAYDAY, EXP, DONATE"
 }
