@@ -1,8 +1,8 @@
 {
   "launcher": {
-    "version": "1.0.3",
+    "version": "2.0.0",
     "url": "ССЫЛКА_НА_EXE_ЛАУНЧЕРА",
-    "force_update": false
+    "force_update": true
   },
   "build": {
     "version": 2,
