@@ -1,12 +1,12 @@
 {
   "launcher": {
-    "version": "1.0.2",
+    "version": "1.0.5",
     "url": "ССЫЛКА_НА_EXE_ЛАУНЧЕРА",
-    "force_update": false
+    "force_update": true
   },
   "build": {
     "version": 3,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=yjh86l6m&dl=1",
-    "force_update": true
+    "force_update": false
   }
 }
