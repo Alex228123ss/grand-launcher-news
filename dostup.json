@@ -1,6 +1,6 @@
 {
   "access": {
-    "is_locked": true,
+    "is_locked": false,
     "password": "123123",
     "message": "Лаунчер находится на техническом обслуживании."
   }
