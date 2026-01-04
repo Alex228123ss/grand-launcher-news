@@ -7,8 +7,8 @@
   "build": {
     "version": 2,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
-    "is_active": false,
+    "is_active": true,
     "date": "05.01.2026"
   },
-  "bonus_text": "АКТИВИРОВАН X10 PAYDAY"
+  "bonus_text": "X10 PAYDAY, EXP, DONATE"
 }
