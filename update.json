@@ -2,13 +2,13 @@
   "launcher": {
     "version": "1.2.0",
     "url": "https://www.dropbox.com/scl/fi/gt75i65h759eifn2zspa7/Grand-Launcher-Setup-1.2.0.exe?rlkey=qp7ri1o2zux60mlvll73lt8hy&st=5tvx7j9p&dl=1",
-    "force_update": true
+    "force_update": false
   },
   "build": {
     "version": 2,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
     "is_active": true,
-    "date": "05.01.2026"
+    "date": "04.01.2026"
   },
   "bonus_text": "X10 PAYDAY, EXP, DONATE"
 }
