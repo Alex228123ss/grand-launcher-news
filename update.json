@@ -1,14 +1,14 @@
 {
   "launcher": {
     "version": "1.2.0",
-    "url": "ССЫЛКА_НА_EXE",
-    "force_update": false
+    "url": "https://www.dropbox.com/scl/fi/cdvmc84745ulp9dvoh0mm/GRAND-RUSSIA-1.2.0.exe?rlkey=8a884qkm4c4yb0ae1dlk3a6qy&st=gese0asg&dl=1",
+    "force_update": true
   },
   "build": {
     "version": 2,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
-    "is_active": true,
-    "date": "04.01.2026"
+    "is_active": false,
+    "date": "05.01.2026"
   },
-  "bonus_text": "X4 PAYDAY"
+  "bonus_text": "X100 PAYDAY"
 }
