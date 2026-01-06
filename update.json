@@ -2,7 +2,7 @@
   "launcher": {
     "version": "1.5.0",
     "url": "https://www.dropbox.com/scl/fi/rr8q8y1kzqxm7k0djmk6n/Grand-Launcher-Setup-1.5.0.exe?rlkey=gr1x1pv5nszkaogon9be2b2w6&st=42hd1gjp&dl=1",
-    "force_update": true
+    "force_update": false
   },
   "build": {
     "version": 2,
@@ -10,5 +10,5 @@
     "is_active": true,
     "date": "04.01.2026"
   },
-  "bonus_text": "BETA"
+  "bonus_text": "X2 DONATE ACTIVE"
 }
