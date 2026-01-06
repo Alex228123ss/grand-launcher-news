@@ -2,7 +2,7 @@
   "launcher": {
     "version": "1.5.0",
     "url": "https://www.dropbox.com/scl/fi/tpdt37oe85alggqj8ii5p/Grand-Launcher-1.5.0.exe?rlkey=ewcfsbna8x6pnv91a74rv75vf&st=sv51blbs&dl=1",
-    "force_update": true
+    "force_update": false
   },
   "build": {
     "version": 2,
