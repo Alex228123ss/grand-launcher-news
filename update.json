@@ -1,14 +1,14 @@
 {
   "launcher": {
-    "version": "2.1.0",
+    "version": "2.5.0",
     "url": "https://www.dropbox.com/scl/fi/43yg0kr0lq0n79783jp59/GRAND-LAUNCHER-2.1.0.exe?rlkey=egxi2jnaidxw2b96iy0fp4zy5&st=0h6hs74x&dl=1",
     "force_update": false
   },
   "build": {
-    "version": 2,
+    "version": 3,
     "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
-    "is_active": true,
-    "date": "04.01.2026"
+    "is_active": false,
+    "date": "14.01.2026"
   },
-  "bonus_text": "X2 DONATE ACTIVE"
+  "bonus_text": "X2 DONATE"
 }
