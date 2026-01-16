@@ -1,17 +1,20 @@
 [
   {
-    "type": "x2",
-    "text": "Акция X2",
+    "id": "x2_payday",
+    "text": "X2 PAYDAY",
+    "color": "#2ed573",
     "active": true
   },
   {
-    "type": "fire",
-    "text": "Промокод: START",
+    "id": "x3_donate",
+    "text": "X3 DONATE",
+    "color": "#ff4757",
     "active": true
   },
   {
-    "type": "gift",
-    "text": "Бонус новичкам",
-    "active": true
+    "id": "winter_pass",
+    "text": "WINTER PASS",
+    "color": "#1e90ff",
+    "active": false
   }
 ]
