@@ -1,0 +1,17 @@
+[
+  {
+    "type": "x2",
+    "text": "Акция X2",
+    "active": true
+  },
+  {
+    "type": "fire",
+    "text": "Промокод: START",
+    "active": true
+  },
+  {
+    "type": "gift",
+    "text": "Бонус новичкам",
+    "active": true
+  }
+]
