@@ -1,8 +1,16 @@
 {
   "server_1": {
-    "maintenance": false
+    "maintenance": false,
+    "name": "INFINITY",
+    "ip": "188.127.241.8:1432",
+    "online": 0,
+    "max": 100
   },
   "server_2": {
-    "maintenance": true
+    "maintenance": true,
+    "name": "TEST SERVER",
+    "ip": "188.127.241.74:2867",
+    "online": 0,
+    "max": 100
   }
 }
