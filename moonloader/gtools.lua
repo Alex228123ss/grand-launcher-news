@@ -1,6 +1,6 @@
 script_name("GTools")
-script_author("Катана_Версетти")
-script_version("1.2.0")
+script_author("Савелий / Катана_Версетти")
+script_version("1.1.0")
 
 local imgui = require 'mimgui'
 local encoding = require 'encoding'
@@ -12,8 +12,8 @@ encoding.default = 'CP1251'
 local u8 = encoding.UTF8
 
 -- ================= ССЫЛКИ ДЛЯ АВТООБНОВЛЕНИЯ =================
-local UPDATE_JSON_URL = "https://raw.githubusercontent.com/Alex228123ss/grand-launcher-news/blob/main/moonloader/update.json"
-local UPDATE_LUA_URL = "https://raw.githubusercontent.com/Alex228123ss/grand-launcher-news/blob/main/moonloader/gtools.lua"
+local UPDATE_JSON_URL = "https://raw.githubusercontent.com/Alex228123ss/grand-launcher-news/refs/heads/main/moonloader/update.json"
+local UPDATE_LUA_URL = "https://raw.githubusercontent.com/Alex228123ss/grand-launcher-news/refs/heads/main/moonloader/gtools.lua"
 local update_status = 0
 
 -- ================= НАСТРОЙКИ (INICFG) =================
@@ -423,7 +423,7 @@ local frame = imgui.OnFrame(
                     imgui.Separator()
                     imgui.Dummy(imgui.ImVec2(0, 15))
                     
-                    if imgui.Button(u8"Telegram разработчика", imgui.ImVec2(250, 35)) then
+                    if imgui.Button(u8"Telegram канал разработчика", imgui.ImVec2(250, 35)) then
                         os.execute('explorer "https://t.me/shedexx1"')
                     end
                 end
