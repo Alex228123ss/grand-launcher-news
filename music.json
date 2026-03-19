@@ -3,11 +3,10 @@
         {"artist": "Bandiicam", "title": "EVA EVA"},
         {"artist": "Insomnia", "title": "Anakonda"},
         {"artist": "Uncleflexxx", "title": "SMS"},
-        {"artist": "Suaalma", "title": "Lunnoe Siyanie"}
+        {"artist": "Suaalma", "title": "Lunnoe Siyanie"},
+        {"artist": "LSP", "title": "Shinshilly"}
     ],
     "radio": [
-        {"artist": "FM", "title": "Европа Плюс"},
-        {"artist": "FM", "title": "Radio Record"},
-        {"artist": "FM", "title": "Русское Радио"}
+        {"artist": "FM", "title": "Europa Plus"}
     ]
 }
