@@ -4,9 +4,11 @@
         {"artist": "Insomnia", "title": "Anakonda"},
         {"artist": "Uncleflexxx", "title": "SMS"},
         {"artist": "Suaalma", "title": "Lunnoe Siyanie"},
-        {"artist": "LSP", "title": "Shinshilly"}
+        {"artist": "LSP", "title": "Shinshilly"},
+        {"artist": "Kristina Si", "title": "Hochy"}
     ],
     "radio": [
-        {"artist": "FM", "title": "Europa Plus"}
+        {"artist": "FM", "title": "Europa Plus"},
+        {"artist": "FM", "title": "Dorognoe Radio"}
     ]
 }
