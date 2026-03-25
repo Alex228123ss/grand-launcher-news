@@ -1,13 +1,13 @@
 {
   "launcher": {
-    "version": "1.2.0",
-    "url": "https://www.dropbox.com/scl/fi/rfl20i4jwgil20nq7k3gq/Grand-Launcher-Setup-1.1.0.exe?rlkey=1t7gkae1x01ia8k35xv2jane6&st=ye1y1ukv&dl=1",
+    "version": "1.0.0",
+    "url": "https://",
     "force_update": false
   },
   "build": {
-    "version": 3,
-    "url": "https://www.dropbox.com/scl/fi/stibrkly9fxj44cbxzp7v/default.zip?rlkey=fnj494wt25bwrtkato4rm9d24&st=0gvg9bgn&dl=1",
+    "version": 1,
+    "url": "https://nexwen.online/launcherPC/GTA.zip",
     "is_active": false,
-    "date": "01.03.2026"
+    "date": "26.03.2026"
   }
 }
