@@ -52,9 +52,18 @@
     }
   ],
   {
-      "trigger": "Connected to",
+      "trigger": "Connecting to",
       "title": "Информация",
-      "text": "Добро пожаловать на Grand Russia",
+      "text": "Добро пожаловать на Grand Russia!",
+      "type": 1,
+      "duration": 4.0,
+      "block_default": true
+    }
+  ],
+{
+      "trigger": "Чтобы завести двигатель",
+      "title": "Информация",
+      "text": "Чтобы завести двигатель, нажмите на клавишу 'N'",
       "type": 1,
       "duration": 4.0,
       "block_default": true
