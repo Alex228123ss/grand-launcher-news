@@ -50,5 +50,14 @@
       "duration": 4.0,
       "block_default": true
     }
+  ],
+  {
+      "trigger": "Connected to",
+      "title": "Информация",
+      "text": "Добро пожаловать на Grand Russia",
+      "type": 1,
+      "duration": 4.0,
+      "block_default": true
+    }
   ]
 }
