@@ -17,6 +17,22 @@
       "block_default": false
     },
     {
+      "trigger": "Unknown command",
+      "title": "Ошибка",
+      "text": "Такой команды не существует.",
+      "type": 2,
+      "duration": 4.0,
+      "block_default": true
+    },
+    {
+      "trigger": "Неизвестная команда",
+      "title": "Ошибка",
+      "text": "Такой команды не существует.",
+      "type": 2,
+      "duration": 4.0,
+      "block_default": true
+    },
+    {
       "trigger": "Команды нет",
       "title": "Ошибка",
       "text": "Такой команды не существует.",
@@ -25,15 +41,15 @@
       "block_default": true
     },
     {
-      "trigger": "Connecting to 188.127.241.17:1112...",
+      "trigger": "Добро пожаловать",
       "title": "Информация",
-      "text": "Добро пожаловать на Grand Russia.",
+      "text": "Добро пожаловать на Grand Russia!",
       "type": 1,
-      "duration": 4.0,
+      "duration": 5.0,
       "block_default": true
     },
     {
-      "trigger": "двигатель",
+      "trigger": "Чтобы завести двигатель",
       "title": "Информация",
       "text": "Чтобы завести двигатель, нажмите на клавишу 'N'",
       "type": 1,
@@ -43,8 +59,8 @@
   ],
   "textdraw_triggers": [
     {
-      "trigger": "Команды нет",
-      "title": "Ошибка",
+      "trigger": "Такой команды не существует",
+      "title": "Ошибка ввода",
       "text": "Такой команды не существует.",
       "type": 2,
       "duration": 4.0,
