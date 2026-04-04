@@ -9,6 +9,8 @@
     ],
     "radio": [
         {"artist": "FM", "title": "Europa Plus"},
-        {"artist": "FM", "title": "Dorognoe Radio"}
+        {"artist": "FM", "title": "Dorognoe Radio"},
+        {"artist": "FM", "title": "Marysuya FM"},
+        {"artist": "FM", "title": "Russian Radio"}
     ]
 }
