@@ -5,12 +5,11 @@
         {"artist": "Uncleflexxx", "title": "SMS"},
         {"artist": "Suaalma", "title": "Lunnoe Siyanie"},
         {"artist": "LSP", "title": "Shinshilly"},
-        {"artist": "Kristina Si", "title": "Hochy"}
+        {"artist": "Kristina Si", "title": "Hochy"},
+        {"artist": "SHEDEXX", "title": "SILHOUETTE"}
     ],
     "radio": [
         {"artist": "FM", "title": "Europa Plus"},
-        {"artist": "FM", "title": "Dorognoe Radio"},
-        {"artist": "FM", "title": "Marysuya FM"},
-        {"artist": "FM", "title": "Russian Radio"}
+        {"artist": "FM", "title": "Dorognoe Radio"}
     ]
 }
