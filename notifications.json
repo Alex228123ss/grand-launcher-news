@@ -41,17 +41,17 @@
       "block_default": true
     },
     {
-      "trigger": "Добро пожаловать",
+      "trigger": "Добро пожаловать на Grand Russia!",
       "title": "Информация",
       "text": "Добро пожаловать на Grand Russia!",
       "type": 1,
-      "duration": 5.0,
+      "duration": 7.0,
       "block_default": true
     },
     {
-      "trigger": "Чтобы завести двигатель",
+      "trigger": "Чтобы завести двигатель, нажмите на клавишу N",
       "title": "Информация",
-      "text": "Чтобы завести двигатель, нажмите на клавишу 'N'",
+      "text": "Завести двигатель: 'N'",
       "type": 1,
       "duration": 4.0,
       "block_default": true
