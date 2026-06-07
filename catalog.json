@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "id": "sonic-test",
+      "title": "Соник: Ночь ежа-оборотня",
+      "description": "Приключения соника и его друзей. Их главная задача - не проиграть.",
+      "year": 2008,
+      "genre": "Фантастика",
+      "duration": "11 мин",
+      "ageRating": "6+",
+      "posterUrl": "https://moution.ru/images/sonic-small.jpg",
+      "backgroundUrl": "https://moution.ru/images/sonic-big.jpg",
+      "videoUrl": "https://moution.ru/video/sonic-test.mp4"
+    }
+  ]
+}
